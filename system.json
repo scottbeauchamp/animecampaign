@@ -35,6 +35,6 @@
   "gridUnits": "ft",
   "initiative": "1d20",
   "primaryTokenAttribute": "resource.A",
-  "manifest": "https://github.com/holipop/animecampaign/releases/download/0.1.3/system.json",
-  "download": "https://github.com/holipop/animecampaign/releases/download/0.1.3/animecampaign.zip"
+  "manifest": "https://github.com/scottbeauchamp/animecampaign/releases/download/0.1.3/system.json",
+  "download": "https://github.com/scottbeauchamp/animecampaign/releases/download/0.1.3/animecampaign.zip"
 }
